@@ -9,4 +9,6 @@ Jazmyn Borman + Igor Carvalho: https://github.com/JSBorman/Stunning-System
 
 Curtis Falkingham git@github.com:soundforascene/Art-CodeProject1.0.git
 
+Omer Osman https://github.com/omerosman/osmano_IGS.git
+
 Yihao Zhu  git@github.com:syeswr/ArtHW1.git
