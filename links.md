@@ -11,4 +11,6 @@ Curtis Falkingham git@github.com:soundforascene/Art-CodeProject1.0.git
 
 Omer Osman https://github.com/omerosman/osmano_IGS.git
 
+Lareb Pirzada git@github.com:lp625/Art-Code-Assignment-1
+
 Yihao Zhu  git@github.com:syeswr/ArtHW1.git
