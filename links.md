@@ -9,6 +9,8 @@ Jazmyn Borman + Igor Carvalho: https://github.com/JSBorman/Stunning-System
 
 Curtis Falkingham git@github.com:soundforascene/Art-CodeProject1.0.git
 
+Alex Fig https://github.com/figgyfunk/VisualAudio.git
+
 Omer Osman https://github.com/omerosman/osmano_IGS.git
 
 Lareb Pirzada git@github.com:lp625/Art-Code-Assignment-1
